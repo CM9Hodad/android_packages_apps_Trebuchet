@@ -17,5 +17,33 @@
 
 <resources>
     <string-array name="extra_wallpapers">
+        <item>wallpaper_fitsnugly_cmearth</item>
+        <item>wallpaper_jai_cmchrome</item>
+        <item>wallpaper_prash_revolutionary</item>
+        <item>wallpaper_prash_arrowd_blue</item>
+        <item>wallpaper_prash_arrowd_green</item>
+        <item>wallpaper_prash_arrowd_pink</item>
+        <item>wallpaper_prash_lovecm</item>
+        <item>wallpaper_prash_nexus_surf</item>
+        <item>wallpaper_cm_nexus_08</item>
+        <item>wallpaper_fitsnugly_8bit</item>
+        <item>wallpaper_jai_cmbrickwall</item>
+        <item>wallpaper_michaelmedina_beachlogs</item>
+        <item>wallpaper_eklipze_notquitemono</item>
+        <item>wallpaper_eklipze_technicolor</item>
+        <item>wallpaper_beki1984_colorwave</item>
+        <item>wallpaper_keithswisher_samuraix</item>
+        <item>wallpaper_jai_cmceation</item>
+        <item>wallpaper_hazybluedots</item>
+        <item>wallpaper_jai_cmdiamondplate</item>
+        <item>wallpaper_jai_cmmodern</item>
+        <item>wallpaper_jai_cmmoderntint</item>
+        <item>wallpaper_jai_cmorb</item>
+        <item>wallpaper_jai_cmskateteam</item>
+        <item>wallpaper_jai_cmwoodedbg</item>
+        <item>wallpaper_boobies</item>
+        <item>wallpaper_cmwall2</item>
+        <item>wallpaper_cmwall004</item>
+        <item>wallpaper_cmwallx1</item>
     </string-array>
 </resources>
